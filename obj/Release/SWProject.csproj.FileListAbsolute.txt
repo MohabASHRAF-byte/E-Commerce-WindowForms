@@ -1,0 +1,14 @@
+C:\Users\MoamenSherif\source\repos\SWProject\SWProject\obj\Release\SWProject.csprojAssemblyReference.cache
+C:\Users\MoamenSherif\source\repos\SWProject\SWProject\obj\Release\SWProject.HomePage.resources
+C:\Users\MoamenSherif\source\repos\SWProject\SWProject\obj\Release\SWProject.LoginForm.resources
+C:\Users\MoamenSherif\source\repos\SWProject\SWProject\obj\Release\SWProject.Properties.Resources.resources
+C:\Users\MoamenSherif\source\repos\SWProject\SWProject\obj\Release\SWProject.csproj.GenerateResource.cache
+C:\Users\MoamenSherif\source\repos\SWProject\SWProject\obj\Release\SWProject.csproj.CoreCompileInputs.cache
+C:\Users\MoamenSherif\source\repos\SWProject\SWProject\bin\Release\SWProject.exe.config
+C:\Users\MoamenSherif\source\repos\SWProject\SWProject\bin\Release\SWProject.exe
+C:\Users\MoamenSherif\source\repos\SWProject\SWProject\bin\Release\SWProject.pdb
+C:\Users\MoamenSherif\source\repos\SWProject\SWProject\bin\Release\Oracle.DataAccess.dll
+C:\Users\MoamenSherif\source\repos\SWProject\SWProject\obj\Release\SWProject.csproj.CopyComplete
+C:\Users\MoamenSherif\source\repos\SWProject\SWProject\obj\Release\SWProject.exe
+C:\Users\MoamenSherif\source\repos\SWProject\SWProject\obj\Release\SWProject.pdb
+C:\Users\MoamenSherif\source\repos\SWProject\SWProject\obj\Release\SWProject.RegisterForm.resources
